@@ -1,1 +1,1 @@
-TEST
+This is training project
